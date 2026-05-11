@@ -16,7 +16,7 @@ Frameworks: Laravel 12
 Herramientas de desarrollo: Visual Studio Code, GitHub, Composer
 
 BASE DE DATOS
-Motor de base de datos: PostgreSQL
+Motor de base de datos: Laragon
 
 ARQUITECTURA
 Tipo de sistema: Sistema de gestion de inventario 
